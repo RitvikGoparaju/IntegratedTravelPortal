@@ -12,10 +12,13 @@ This project is to be developed under the following constraints (In fact, these 
 - The *Route* information has to be initialized by the class that derives from **Portal** Class
 - The *Airline/Flight, Busline/Bus* information has to be initialized by the classes which derive from those base classes. (The details about which are also explained later under the section **Input Text Files**)
 - The most important requirement is that the *Portal* and *Airline/Busline, Flight/Bus* classes should be treated as belonging to **two** different categories in the sense that the derived classes of either category should be able to combine with those of the other category - developed by anyone, who follows the requirements/constraints stated here - during their actual implementation.
+
 ##Input Text Files
 - Route info File Structure:
+
 ##Project Highlights
 It, in my opinion, is a wonderful project for it calls for implementing almost all OOPS concepts, like *Inheritence, Polymorphism, Abstraction, Encapsulation, etc.* along with *Function Overloading* & *Operator Overloading*.
+
 ##Note
 The requirements of all the base classes can be understood by reading the comments in the respective header files, viz., `Portal.h`, `Airline.h`, `Flight.h`.
 
