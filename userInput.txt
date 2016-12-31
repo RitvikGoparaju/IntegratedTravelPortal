@@ -1,0 +1,12 @@
+Jaipur Delhi Flight
+sort price ascending
+sort time descending
+buy cheapest
+buy earliest Airline5047_1
+sort price ascending
+Bangalore Mumbai Bus
+sort price descending
+sort duration ascending
+buy earliest
+buy cheapest Busline5047_1
+sort price descending
