@@ -6,7 +6,7 @@ This all started as an *End-Sem project* during my 3rd semester *C++ Programming
 
 **Note**
 
-Presently, I am using "Flight" class only for the sake of "Bus". After all, same members (origin, destination, etc.) exist even for Bus also. Eventually, I would go for the right **semantics** to make it more user-friendly.
+Presently, I am using `Flight` class only for the sake of `Bus`. After all, same members (origin, destination, etc.) exist even for Bus also. Eventually, I would go for the right **semantics** to make it more user-friendly.
 
 **How to run the application?**
 
@@ -21,4 +21,4 @@ Please offer your valuable **feedback** to me at **`gvkcritvik97@gmail.com`** / 
 ![Alt](https://ritvikgoparaju.github.io/IntegratedTravelPortalWebSite/images/classdiagram.jpg "Class Diagram")
 
 ###Another Appeal
-Please also visit [My Java Project] (https://github.com/RitvikGoparaju/IntegratedKidGames/ "My extended Java Project") Thanks!
+Please also visit [**Integrated Kid Games** My Java Project] (https://github.com/RitvikGoparaju/IntegratedKidGames/ "My Java Project") Thanks!
