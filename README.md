@@ -2,7 +2,7 @@
 
 **Overview**
 
-This all started as an *End-Sem project* during my 3rd semester *C++ Programming* Course in *IIIT-Bangalore*. I then coded to include `Airline` to the portal. As I fell in love with this project, I, during the *semester-end holidays*, extended it to include `Bus` routes & services too to the application.
+This all started as an *End-Sem project* during my 3rd semester *C++ Programming* Course in *IIIT-Bangalore*. During that time, I coded to include `Airline` only (the minimum requirement) to the portal. As I fell in love with this project, I, during the *semester-end holidays*, extended it to include `Bus` routes & services too to the application.
 
 This project is for developing a sort of **Travel Portal**. Using this portal, the users can get Tickets for Airlines/Buses between the chosen *Origin* & *Destination* locations.
 
