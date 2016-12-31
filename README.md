@@ -48,7 +48,7 @@ buy cheapest Busline5047_1<br>
 sort price descending<br>
 
 ##Project Highlights
-It, in my opinion, is a wonderful project for it calls for implementing almost all OOPS concepts, like *Inheritence, Polymorphism, Abstraction, Encapsulation, etc.* along with *Function Overloading* & *Operator Overloading*.
+It, in my opinion, is a wonderful project for it calls for implementing almost all OOPS concepts, like *Inheritence, Polymorphism, Abstraction, Encapsulation, etc.* along with *Function Overloading* & *Operator Overloading* (*Functors* too).
 
 ##Note
 The requirements of all the base classes can be understood by reading the comments in the respective header files, viz., `Portal.h`, `Airline.h`, `Flight.h`.
@@ -69,3 +69,6 @@ Please offer your valuable **feedback** to me at **`gvkcritvik97@gmail.com`** / 
 
 ##Another Appeal
 Please also visit [**Integrated Kid Games** My Java Project] (https://github.com/RitvikGoparaju/IntegratedKidGames/ "My Java Project") Thanks!
+
+##Gratitude
+My sincere thanks to Prof. TK Srikanth & Mr. Tarun Jain for the wonderful guidance, support and encouragement.
