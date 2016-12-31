@@ -20,4 +20,4 @@ Please offer your valuable **feedback** to me at **`gvkcritvik97@gmail.com`** / 
 ![Alt](https://ritvikgoparaju.github.io/IntegratedTravelPortalWebSite/images/classdiagram.jpg "Class Diagram")
 
 ###Another Appeal
-Please also visit [Alt] (https://github.com/RitvikGoparaju/IntegratedKidGames/ "My extended Java Project") Thanks!
+Please also visit [My extended Java Project] (https://github.com/RitvikGoparaju/IntegratedKidGames/ "My extended Java Project") Thanks!
