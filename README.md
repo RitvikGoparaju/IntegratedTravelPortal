@@ -22,7 +22,7 @@ String (*Flight/Bus*) - String (*Origin*) - String (*Destination*) - Number (*Di
 
 **Airline/Busline**
 
-First line: Number (*Total Number of Tickets available*)<br>Remaining lines: String (*Origin*) - String (*Destination*)
+First line: Number (*Total Number of Tickets available*)<br>Remaining lines: String (*Origin*) - String (*Destination*) - Number (*Number of Flights per day*)<br>
 
 *Example*:<br>30<br>Bangalore Mumbai 2<br>Jaipur Delhi 7
 
