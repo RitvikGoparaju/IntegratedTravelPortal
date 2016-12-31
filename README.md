@@ -30,10 +30,10 @@ Presently, I am using `Flight` class only for the sake of `Bus`. After all, same
 - Unzip all the folders and files. 
 - Generate the executable by compiling and linking the object code. Then, execute the **TravelPortalIntegrated** program. Please keep the **txt** files intact in the folder to run the portal.
 
-###A Sincere Appeal
+##A Sincere Appeal
 Please offer your valuable **feedback** to me at **`gvkcritvik97@gmail.com`** / **`VenkataRitvik.Goparaju@iiitb.org`**
 
-###The Class diagram
+##The Class diagram
 ![Alt](https://ritvikgoparaju.github.io/IntegratedTravelPortalWebSite/images/classdiagram.jpg "Class Diagram")
 
 ##Another Appeal
