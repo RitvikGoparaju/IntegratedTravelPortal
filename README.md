@@ -6,14 +6,18 @@ This all started as an *End-Sem project* - devised by our revered professor, **P
 
 **Objective**
 
-The objective of this project is developing a sort of **Travel Portal**. Using this portal, the users can get Tickets for Airlines/Buses between the chosen *Origin* & *Destination* locations based on different criteria (like *Chepest/Earliest/Latest/etc*). The users can sort the *flights/buses* based on different **Sort Fields** (*Duration/Time/Price/etc*) and **Sor Order** (*Ascending/Descending*)
+The objective of this project is developing a sort of **Travel Portal**. Using this portal, the users can get Tickets for Airlines/Buses between the chosen *Origin* & *Destination* locations based on different criteria (like *Chepest/Earliest/Latest/etc*). The users can sort the *flights/buses* based on different **Sort Fields** (*Duration/Time/Price/etc*) and **Sort Order** (*Ascending/Descending*)
 
-**The Requirements**
+**The Requirements/Constraints**
 
 This project is to be developed under the following constraints (In fact, these ultimately prove to be not constraints but blessings for the sake of **Code Reusability/Extensibility**, etc.):
 
-- The Given variable and method signatures of the Base Classes of *Portal*, *Airline/Busline*, *Flight/Bus* should not be changed at all
-- The user should interact only with the main class
+- The Given variable and method signatures of the Base Classes of *Portal* `Portal.h`, *Airline/Busline* `Airline.h`, *Flight/Bus* `Flight.h` should not be changed at all.
+- The user should interact only with the main class, (in this case **TravelPortalIntegrated.cpp**.) It means that the *userinput.txt* - about which you would learn later - file should be used by this program only.
+- The *Route* information has to be initialized by the class that derives from **Portal** Class
+- The *Airline/Flight, Busline/Bus* information has to be initialized by the classes which derive from those base classes.
+- The most important requirement is that the *Portal* and *Airline/Busline, Flight/Bus* classes should be treated as belonging to two different categories in the sense that the derived classes of either category should be able to combine with those of the other category during their actual implementation.
+
 
 **Project Details**
 
