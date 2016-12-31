@@ -20,20 +20,32 @@ String (*Flight/Bus*) - String (*Origin*) - String (*Destination*) - Number (*Di
 
 *Example*:<br>Flight Bangalore Hyderabad 500 70 6.0 9.0 7<br>Bus Bangalore Mumbai 1000 416 2.16 3.12 40
 
-**Airline/Busline
+**Airline/Busline**
 
-First line: Number (*Total Number of Tickets available*)
+First line: Number (*Total Number of Tickets available*)<br>Remaining lines: String (*Origin*) - String (*Destination*)
 
-Remaining lines: String (*Origin*) - String (*Destination*)
+*Example*:<br>30<br>Bangalore Mumbai 2<br>Jaipur Delhi 7
 
-*Example*:
+**User Input**
 
-30
+First line: String (*Origin*) - String (*Destination*) - String (*Flight/Bus*)<br>
+Next Line Onwards: Either Sort/Buy as shown below:<br>
+*For Sorting*: String (sort) - String (*Sort Field* **price/duration/time**, etc.) - String (*Sort Order* **Ascending/Descending**)<br>
+*For Buying*: String (buy) - String (*Buy Option* **Cheapest/Earliest**, etc.) - (Optional) String (*Airline/Busline Name*)
 
-Bangalore Mumbai 2
-
-Jaipur Delhi 7
-
+*Example*:<br>
+Jaipur Delhi Flight<br>
+sort price ascending<br>
+sort time descending<br>
+buy cheapest<br>
+buy earliest Airline5047_1<br>
+sort price ascending<br>
+Bangalore Mumbai Bus<br>
+sort price descending<br>
+sort duration ascending<br>
+buy earliest<br>
+buy cheapest Busline5047_1<br>
+sort price descending<br>
 
 ##Project Highlights
 It, in my opinion, is a wonderful project for it calls for implementing almost all OOPS concepts, like *Inheritence, Polymorphism, Abstraction, Encapsulation, etc.* along with *Function Overloading* & *Operator Overloading*.
