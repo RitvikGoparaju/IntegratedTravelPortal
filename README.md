@@ -13,15 +13,14 @@ This project is to be developed under the following constraints (In fact, these 
 - The *Airline/Flight, Busline/Bus* information has to be initialized by the classes which derive from those base classes. (The details about which are also explained later under the section **Input Text Files**)
 - The most important requirement is that the *Portal* and *Airline/Busline, Flight/Bus* classes should be treated as belonging to **two** different categories in the sense that the derived classes of either category should be able to combine with those of the other category - developed by anyone, who follows the requirements/constraints stated here - during their actual implementation.
 
-##Input Text Files
-**Route info Text-File Structure**
+##Input Text Files & Their Structures
+**Routes**
 
 String (*Flight/Bus*) - String (*Origin*) - String (*Destination*) - Number (*Distance*) - Number (*Duration, mins*) - Number (*Minimum Rate/km*) - Number (*Maximum rate/km*) - Number (*Duration Time variation, mins.*)
 
 *Example*:
 
 Flight Bangalore Hyderabad 500 70 6.0 9.0 7
-
 Bus Bangalore Mumbai 1000 416 2.16 3.12 40
 
 
