@@ -10,4 +10,8 @@ This all started as an *End-Sem project* during my 3rd semester *C++ Programming
 - Unzip all the folders and files. 
 - Generate the executable by compiling and linking the object code. Then, execute the **TravelPortalIntegrated** program. Please keep the **txt** files intact in the folder to run the portal.
 
-https://ritvikgoparaju.github.io/IntegratedTravelPortalWebSite/images/classdiagram.jpg
+###A Sincere Appeal
+Please offer your valuable **feedback** to me at **`gvkcritvik97@gmail.com`** / **`VenkataRitvik.Goparaju@iiitb.org`**
+
+###The Class diagram
+![Alt](https://ritvikgoparaju.github.io/IntegratedTravelPortalWebSite/images/classdiagram.jpg "Class Diagram")
