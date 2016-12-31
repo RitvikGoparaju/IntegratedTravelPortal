@@ -16,13 +16,13 @@ This project is to be developed under the following constraints (In fact, these 
 ##Input Text Files & Their Structures
 **Routes**
 
-String (*Flight/Bus*) - String (*Origin*) - String (*Destination*) - Number (*Distance*) - Number (*Duration, mins*) - Number (*Minimum Rate/km*) - Number (*Maximum rate/km*) - Number (*Duration Time variation, mins.*)
+String (*Flight/Bus*) - String (*Origin*) - String (*Destination*) - Number (*Distance*) - Number (*Duration, mins*) - Number (*Minimum Rate/km*) - Number (*Maximum Rate/km*) - Number (*Duration Time variation, mins.*)
 
 *Example*:<br>Flight Bangalore Hyderabad 500 70 6.0 9.0 7<br>Bus Bangalore Mumbai 1000 416 2.16 3.12 40
 
 **Airline/Busline**
 
-First line: Number (*Total Number of Tickets available*)<br>Remaining lines: String (*Origin*) - String (*Destination*) - Number (*Number of Flights per day*)<br>
+First line: Number (*Total Number of Tickets available per Airline/Busline per day*)<br>Remaining lines: String (*Origin*) - String (*Destination*) - Number (*Number of Flights per day*)<br>
 
 *Example*:<br>30<br>Bangalore Mumbai 2<br>Jaipur Delhi 7
 
@@ -47,13 +47,14 @@ buy earliest<br>
 buy cheapest Busline5047_1<br>
 sort price descending<br>
 
+*Note*<br>The Airline/Busline Flight/Bus details can be initialized randomly within the constraints of *Routes* info presented above<br>
 ##Project Highlights
 It, in my opinion, is a wonderful project for it calls for implementing almost all OOPS concepts, like *Inheritence, Polymorphism, Abstraction, Encapsulation, etc.* along with *Function Overloading* & *Operator Overloading* (*Functors* too).
 
 ##Note
 The requirements of all the base classes can be understood by reading the comments in the respective header files, viz., `Portal.h`, `Airline.h`, `Flight.h`.
 
-Presently, I am using `Flight` class only for the sake of `Bus`. After all, same members (origin, destination, etc.) exist even for Bus also. Eventually, I would go for the right **semantics** to make it more user-friendly.
+Presently, I am using `Flight` class only for the sake of both `Flight` & `Bus` and `Airline` only for the sake of both `Airline` & `Busline`. After all, same members (origin, destination, etc.) exist even for Bus also. Eventually, I would go for the right **semantics** to make it more user-friendly.
 
 ##How to run the application?
 
