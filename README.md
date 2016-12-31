@@ -63,7 +63,7 @@ Presently, I am using `Flight` class only for the sake of both `Flight` & `Bus` 
 - Generate the executable by compiling and linking the object code. Then, execute the **TravelPortalIntegrated** program. Please keep the **txt** files intact in the folder to run the portal.
 
 ##A Sincere Appeal
-Please offer your valuable **feedback** to me at **`gvkcritvik97@gmail.com`** / **`VenkataRitvik.Goparaju@iiitb.org`**
+Please offer your valuable **feedback** to me at **`VenkataRitvik.Goparaju@iiitb.org`** / **`gvkcritvik97@gmail.com`**
 
 ##The Class diagram
 ![Alt](https://ritvikgoparaju.github.io/IntegratedTravelPortalWebSite/images/classdiagram.jpg "Class Diagram")
