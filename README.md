@@ -15,7 +15,8 @@ This project is to be developed under the following constraints (In fact, these 
 
 ##Input Text Files
 **Route info Text-File Structure**
-String<Flight/Bus>
+String (<Flight/Bus>)
+
 Flight Bangalore Hyderabad 500 70 6.0 9.0 7
 Bus Bangalore Mumbai 1000 416 2.16 3.12 40
 
