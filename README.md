@@ -15,8 +15,9 @@ This project is to be developed under the following constraints (In fact, these 
 
 ##Input Text Files
 **Route info Text-File Structure**
-String (<Flight/Bus>)
+String (*Flight/Bus*) - String (*Origin*) - String (*Destination*) - Number (*Distance*) - Number (*Duration, mins*) - Number (*Minimum Rate/km*) - Number (*Maximum rate/km*) - Number (*Duration Time variation, mins.*)
 
+*Example*:
 Flight Bangalore Hyderabad 500 70 6.0 9.0 7
 Bus Bangalore Mumbai 1000 416 2.16 3.12 40
 
