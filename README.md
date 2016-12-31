@@ -16,8 +16,7 @@ This project is to be developed under the following constraints (In fact, these 
 - The user should interact only with the main class, (in this case **TravelPortalIntegrated.cpp**.) It means that the *userinput.txt* - about which you would learn later - file should be used by this program only.
 - The *Route* information has to be initialized by the class that derives from **Portal** Class
 - The *Airline/Flight, Busline/Bus* information has to be initialized by the classes which derive from those base classes.
-- The most important requirement is that the *Portal* and *Airline/Busline, Flight/Bus* classes should be treated as belonging to two different categories in the sense that the derived classes of either category should be able to combine with those of the other category during their actual implementation.
-
+- The most important requirement is that the *Portal* and *Airline/Busline, Flight/Bus* classes should be treated as belonging to **two** different categories in the sense that the derived classes of either category should be able to combine with those of the other category - developed by anyone, who follows the requirements/constraints stated here - during their actual implementation.
 
 **Project Details**
 
