@@ -47,7 +47,7 @@ buy earliest<br>
 buy cheapest Busline5047_1<br>
 sort price descending<br>
 
-*Note*<br>The Airline/Busline Flight/Bus details can be initialized randomly within the constraints of *Routes* info presented above<br>
+**Note**<br>The *Airline/Busline*, *Flight/Bus* details can be initialized randomly within the constraints of *Routes* info presented above<br>
 ##Project Highlights
 It, in my opinion, is a wonderful project for it calls for implementing almost all OOPS concepts, like *Inheritence, Polymorphism, Abstraction, Encapsulation, etc.* along with *Function Overloading* & *Operator Overloading* (*Functors* too).
 
