@@ -9,8 +9,7 @@ This project is to be developed under the following constraints (In fact, these 
 - There are three base classes in this project, and they are *Portal*, *Airline/Busline* & *Flight/Bus*.
 - The Given variable and method signatures of the Base Classes of *Portal* `Portal.h`, *Airline/Busline* `Airline.h`, *Flight/Bus* `Flight.h` should not be changed at all.
 - All the implementational classes (derived) would be included in a Main program **TravelPortalIntegrated.cpp**. It is this program, which is accessed by the outside world. 
-- The class that derives *Portal* should read *userinput.txt* - about which you would learn later - file for processing the sort/buy options submitted by the users.
-- The *Route* information has to be initialized by the class that derives from **Portal** Class
+- The class that derives *Portal* should read *routes* & *userinput* text files - about which you would learn later - to initialize routes information and for processing the sort/buy options submitted by the users respectively.
 - The *Airline/Flight, Busline/Bus* information has to be initialized by the classes which derive from those base classes. (The details about which are also explained later under the section **Input Text Files**)
 - The most important requirement is that the *Portal* and *Airline/Busline, Flight/Bus* classes should be treated as belonging to **two** different categories in the sense that the derived classes of either category should be able to combine with those of the other category - developed by anyone, who follows the requirements/constraints stated here - during their actual implementation.
 
