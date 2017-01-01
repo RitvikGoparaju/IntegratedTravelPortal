@@ -1,6 +1,6 @@
 # Integrated Travel Portal
 ##Overview
-This all started as an *End-Sem project* - devised by our revered professor, **Prof. T K Srikanth** - during our 3rd semester *C++ Programming* Course in *IIIT-Bangalore*. During that time (Oct/Nov-2016), I coded to include `Airline` only (the minimum requirement) to the portal. As I fell in love with this project, I, during my *semester-end holidays* (Dec-2016), extended it to include `Bus` routes & services too to the application.
+This all started as the *End-Sem project* - devised by our revered professor, **Prof. T K Srikanth** - during our 3rd semester *C++ Programming* Course in *IIIT-Bangalore*. During that time (Oct/Nov-2016), I coded to include `Airline` only (the minimum requirement) to the portal. As I fell in love with this project, I, during my *semester-end holidays* (Dec-2016), extended it to include `Bus` routes & services too to the application.
 ##Objective
 The objective of this project is developing a sort of **Travel Portal**. Using this portal, the users can get Tickets for Airlines/Buses between the chosen *Origin* & *Destination* locations based on different criteria (like *Chepest/Earliest/Latest/etc*). The users can sort the *flights/buses* based on different **Sort Fields** (*Duration/Time/Price/etc*) and **Sort Order** (*Ascending/Descending*)
 ##The Requirements/Constraints
