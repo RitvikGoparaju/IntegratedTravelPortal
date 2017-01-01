@@ -72,4 +72,4 @@ Please offer your valuable **feedback** to me at **`VenkataRitvik.Goparaju@iiitb
 Please also visit [**Integrated Kid Games** My Java Project] (https://github.com/RitvikGoparaju/IntegratedKidGames/ "My Java Project") Thanks!
 
 ##Gratitude
-My sincere thanks to Prof. **TK Srikanth** for the wonderful guidance, support and encouragement.
+My sincere thanks to **Prof. TK Srikanth** for the wonderful guidance, support and encouragement.
